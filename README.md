@@ -1,14 +1,18 @@
-# Team2
+# IP-94 DB Team 2
+This organization consists of students of the IP-94 (FICT KPI) group. Theme of our project is a `Clothing Store`, which is connected to a database.
 
-Well,this is a project of the best programming team,consists of: 
-1.https://github.com/kirilinsane
-2.https://github.com/Destaby
-3.https://github.com/NikitaLitvishko
-4.https://github.com/Bespaliy
-5.https://github.com/GITjoint
-6.https://github.com/sashaholovenko
+## Technology Stack:
+- Client: Node.js
+- Database: MySQL
 
-Theme of our project is a DataBase for clothing store.
+## Members:
+- [Kirill Bondyk](https://github.com/kirilinsane)
+- [Nick Rudyk](https://github.com/Destaby)
+- [Nikita Litvishko](https://github.com/NikitaLitvishko)
+- [Bespaliy Illya](https://github.com/Bespaliy)
+- [Vova](https://github.com/GITjoint)
+- [Sasha Holovenko](https://github.com/sashaholovenko)
+
 
 
 
