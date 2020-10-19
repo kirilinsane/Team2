@@ -10,4 +10,4 @@
 
 2. Система надає користувачу інформацію щодо місцеположення товару.
 
-[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC2-Tracking.md)
+[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC2.png)
