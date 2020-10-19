@@ -18,4 +18,4 @@
 
 6. При підтвердженні, система додає або видаляє товар з бажаних.
 
-[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC1-AddSubProduct.md)
+[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC1.png)

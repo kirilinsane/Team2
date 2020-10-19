@@ -10,4 +10,4 @@
 
 2. Система надає користувачу електронну пошту адміністратора.
 
-[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC3-Contact.md)
+[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC3.png)
