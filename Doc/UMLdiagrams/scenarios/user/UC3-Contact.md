@@ -1,6 +1,6 @@
 # Зв'язок з адміністратором
 
-### Респондент має доступ до отримання електронної пошти адміністратора.
+### Користувач має доступ до отримання електронної пошти адміністратора.
 
 ### Передумови. Користувач авторизований в системі.
 
@@ -10,4 +10,4 @@
 
 2. Система надає користувачу електронну пошту адміністратора.
 
-[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC4-Contact.md)
+[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC3-Contact.md)

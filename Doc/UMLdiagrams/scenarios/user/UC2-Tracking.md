@@ -1,6 +1,6 @@
 # Відстежування місцерозташування товару
 
-### Респондент має доступ до відстежування місцерозташування товару.
+### Користувач має доступ до відстежування місцерозташування товару.
 
 ### Передумови. Користувач авторизований в системі.
 
@@ -10,4 +10,4 @@
 
 2. Система надає користувачу інформацію щодо місцеположення товару.
 
-[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC3-Tracking.md)
+[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/user/Diagrams/UC2-Tracking.md)
