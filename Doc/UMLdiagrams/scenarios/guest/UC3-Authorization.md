@@ -16,4 +16,4 @@
 
 5. Користувач входить в свій акаунт.
 
-[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/guest/Diagrams/UC3-Authorization.png)
+[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/blob/master/Doc/UMLdiagrams/scenarios/guest/Diagrams/UC-3-Authorization.png)

@@ -16,4 +16,4 @@
 
 5. Акаунт створене.Користувач може використовувати його можливості.
 
-[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/tree/master/Doc/UMLdiagrams/scenarios/guest/Diagrams/UC1-Registration.png)
+[Діаграма юзкейсу](https://github.com/KPI-IP94-Database/Team2/blob/master/Doc/UMLdiagrams/scenarios/guest/Diagrams/UC-1-Registration.png)
