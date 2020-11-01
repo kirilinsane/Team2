@@ -28,7 +28,6 @@ usecase "<b>UC_3</b>\nЗв'язок з адміністратором" as UC3_Us
 ' UCes for Admin:
 usecase "<b>UC_1</b>\nОбробка звернень користувача" as UC1_Admin
 usecase "<b>UC_2</b>\nМаніпуляції з правами\nдоступу користувачів" as UC2_Admin
-usecase "<b>UC_3</b>\nМожливість "відігравати роль" користувача" as UC3_Admin
 
 
 ' Actors connections
@@ -51,7 +50,6 @@ User -u--> UC3_User
 
 Admin -d--> UC1_Admin
 Admin -d-> UC2_Admin
-Admin -d-> UC3_Admin
 
 
 right footer
